@@ -28,3 +28,6 @@ Notes from meeting with Sheng (10/06):
   ## data
   7.2k photos
   https://www.kaggle.com/datasets/ashwingupta3012/human-faces/data
+
+  597 unique photos
+  https://www.chicagofaces.org/
