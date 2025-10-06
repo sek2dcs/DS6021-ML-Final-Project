@@ -21,4 +21,8 @@ Notes from meeting with Sheng (10/06):
 - could do something like make face more attractiveness (extra credit) 
 - racial bias?
       - eastern vs western (because there is bias in golden ratio for western faces)
-      - a sub-question 
+      - a sub-question
+
+  ## data
+  7.2k photos
+  https://www.kaggle.com/datasets/ashwingupta3012/human-faces/data
