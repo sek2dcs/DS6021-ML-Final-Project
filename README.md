@@ -22,6 +22,8 @@ Notes from meeting with Sheng (10/06):
 - racial bias?
       - eastern vs western (because there is bias in golden ratio for western faces)
       - a sub-question
+- feminine vs masculine vs androgynous
+    - what is considered the most objectively attractive? 
 
   ## data
   7.2k photos
