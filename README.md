@@ -1,6 +1,11 @@
 # DS6021-ML-Final-Project
 
-
+## NEEDS: 
+- 6-8 slide presentation
+- original dataset in csv or excel format
+      - raw & clean versions
+- compiled code
+- published app
 
 
 **who is the most “attractive” in the cohort?**
@@ -29,5 +34,25 @@ Notes from meeting with Sheng (10/06):
   7.2k photos
   https://www.kaggle.com/datasets/ashwingupta3012/human-faces/data
 
+
   597 unique photos
   https://www.chicagofaces.org/
+
+
+## timeline 
+
+oct 6: indivudally research the documentation for open cv & also the papers that sheng sent
+oct 13: pull numeric data for multilinear regression 
+oct 20: have multilinear regression built out by end of week
+oct 27: logit model (figure out what that means)
+nov 11: have KNN model built out by end of week
+nov 16: have K means model built out by end of week 
+dec 1: have MLP model built out by end of week 
+
+continually build out shiny/dash app throughout process 
+PRESENTATION BY DEC 
+
+
+
+
+
