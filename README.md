@@ -65,7 +65,7 @@ Plan!
 
 Make Google Form
 
-↳ Send to class (corrine ppl)
+↳ Send to class
 
 Cat Vars
 
