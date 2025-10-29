@@ -10,6 +10,7 @@
 
 **who is the most “attractive” in the cohort?**
 
+
 Notes from meeting with Sheng (10/06): 
 - https://github.com/Aksoylu/GoldenFace
 - training model on random face data then test data is the cohort pics? 
@@ -87,6 +88,9 @@ Num Var
 
 ↳ Face mouth width
 
+Random Questions?
+- is the golden ratio biased toward gender, race, or expression ?
+- 
 
 
 
