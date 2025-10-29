@@ -67,7 +67,9 @@ Plan!
 Make Google Form - Make cookies with Sophie on Tuesday
 
 ↳ Send to class
+
 ↳ https://forms.office.com/r/Y97GA6zShT
+
 ↳ Collect headshots
 
 Cat Vars
@@ -77,6 +79,8 @@ Cat Vars
 ↳ Expression – happy, sad
 
 ↳ Gender
+
+↳ Race
 
 Num Var
 
