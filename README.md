@@ -59,7 +59,13 @@ dec 1: have MLP model built out by end of week
 continually build out shiny/dash app throughout process 
 PRESENTATION BY DEC 
 
+## Oct. 29, 2025 
 
+Next Steps: 
+
+- collect head shots from cohort
+- share code
+- come up with columns/categories 
 
 
 
