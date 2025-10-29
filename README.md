@@ -61,11 +61,30 @@ PRESENTATION BY DEC
 
 ## Oct. 29, 2025 
 
-Next Steps: 
+Plan!
 
-- collect head shots from cohort
-- share code
-- come up with columns/categories 
+Make Google Form
+
+↳ Send to class (corrine ppl)
+
+Cat Vars
+
+↳ Odds of golden ratio
+
+↳ Expression – happy, sad
+
+↳ Gender
+
+Num Var
+
+↳ Face width
+
+↳ Face height
+
+↳ Face eye dist
+
+↳ Face mouth width
+
 
 
 
