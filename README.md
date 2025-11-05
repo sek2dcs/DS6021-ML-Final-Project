@@ -97,17 +97,26 @@ Random Questions?
 - 
 
 
-Oct 29: 
+## Oct 29: 
+
+
 DATA COLLECTION + WRANGLING
+
 -sent out google form, incetivized
 -deleted repeats, incorrect form usage, edited/omitted photos where face was blocked. 
 -added instructors manually
+-more time on data engineering rather than defining stuff
+
+multiclasss logistic regression?
+numeric value of beauty?
+
+
 NEED TO - 
-LINEAR/GLM- predict oen face features based on another (how far away eyes are based on face dimentions)
-LOGIT- golden ratio (how close to golden ratio- 5 levels of classification)
-      Based on X,Y Predictors, what category of golden ratio does this
-      How Biased is it towards gender/race
-KNN- ^^
-KMEANs-
-PCA-
+* LINEAR/GLM- predict oen face features based on another (how far away eyes are based on face dimentions)
+* LOGIT- golden ratio (how close to golden ratio- 5 levels of classification)
+    **  Based on X,Y Predictors, what category of golden ratio does this
+    **  How Biased is it towards gender/race
+* KNN- ^^
+* KMEANs-
+* PCA-
 
