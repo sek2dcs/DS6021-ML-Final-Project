@@ -107,16 +107,37 @@ DATA COLLECTION + WRANGLING
 -added instructors manually
 -more time on data engineering rather than defining stuff
 
+-overall face shape: face height should be 1.618x larger than face width
+-eye spacing: distance between eyes should be approx equal to width of one eye
+-lip fullness: lower lip should be 1.18x larger than volume of upper lip
+-nose length: lenght of nose should be in proportion to the distance from the nose to the chin 
+
+- target variable: average the ratios and then compare to ideal ratio(?)
+
 multiclasss logistic regression?
 numeric value of beauty?
 
 
 NEED TO - 
-* LINEAR/GLM- predict oen face features based on another (how far away eyes are based on face dimentions)
+* LINEAR/GLM- lip fullness 
 * LOGIT- golden ratio (how close to golden ratio- 5 levels of classification)
     **  Based on X,Y Predictors, what category of golden ratio does this
     **  How Biased is it towards gender/race
 * KNN- ^^
 * KMEANs-
 * PCA-
+
+
+
+
+## Nov 5 - next steps (data engineering)
+
+- Bella and Sophie to talk to Kropko about webscraping code for sharepoint pictures to have everything in the same "place"
+      - figure out how to webscrape (ethically)
+
+- Once all faces are in "one" place, data engineer with opencv to get measurements of facial features
+        - Variables unknown
+- **FINISHED BY** 11/19
+
+
 
